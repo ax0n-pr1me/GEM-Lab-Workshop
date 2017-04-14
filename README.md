@@ -13,7 +13,7 @@ A repository to keep the source data and grow the workshop into a full featured 
   
     * 13 images
     
-    * ~ 85 Mb
+    * ~ 85 MB
     
   * Survey Data in csv format 
   
@@ -26,6 +26,12 @@ A repository to keep the source data and grow the workshop into a full featured 
     * Processed on highest settings throughout
     
     * ~ 2.1 GB
+    
+  * 1 Meter Resolution DSM
+  
+   * Represnts the region around the AOI
+   
+   * ~ 33 MB
   
 
 ## Directions
