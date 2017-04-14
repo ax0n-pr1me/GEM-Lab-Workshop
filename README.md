@@ -27,3 +27,30 @@ A repository to keep the source data and grow the workshop into a full featured 
     
     * ~ 2.1 GB
   
+
+## Directions
+
+### Download Data 
+
+If possible, download everything at the link, if bandwidth is a limiting factor, all that is needed is the imagery and survey data
+
+### Install Agisoft
+
+See download links [here](http://www.agisoft.com/downloads/installer/) 
+
+Select link that corresponds to your Operating System
+
+Be sure to select professional version
+
+### Request Trial License 
+
+Submit form [here](http://www.agisoft.com/downloads/request-trial/)
+
+Allow one day for code to be emailed to you
+
+### License Agisoft
+
+Enjoy opening, importing, saving, and exporting for 31 days!
+
+### Come to the Workshop Thursday, April 27 2017
+
