@@ -25,5 +25,5 @@ A repository to keep the source data and grow the workshop into a full featured 
   
     * Processed on highest settings throughout
     
-    * about 2.1 GB
+    * ~ 2.1 GB
   
