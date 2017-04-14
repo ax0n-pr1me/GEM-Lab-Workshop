@@ -29,9 +29,9 @@ A repository to keep the source data and grow the workshop into a full featured 
     
   * 1 Meter Resolution DSM
   
-   * Represnts the region around the AOI
+    * Represnts the region around the AOI
    
-   * ~ 33 MB
+    * ~ 33 MB
   
 
 ## Directions
