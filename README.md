@@ -10,7 +10,7 @@ A repository to grow the workshop into a full featured course on the application
 
      * Processed in PhotoScan(c) at the highest settings
 
-     * Available here [UNM GEM Lab Sample Data](https://unmm-my.sharepoint.com/personal/jessesprague_unm_edu/_layouts/15/guestaccess.aspx?folderid=0e0d891c4265f4535b311843674d8b83b&authkey=AQlMNzr_S3kyFPANb9vJxWg)
+[UNM GEM Lab Sample Data](https://unmm-my.sharepoint.com/personal/jessesprague_unm_edu/_layouts/15/guestaccess.aspx?folderid=0e0d891c4265f4535b311843674d8b83b&authkey=AQlMNzr_S3kyFPANb9vJxWg)
 
 #### UNM Gem Lab Sample Data Includes
 
