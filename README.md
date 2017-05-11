@@ -58,6 +58,10 @@ A repository to grow the workshop into a full featured course on the application
     * ~ 33 MB
 ## Directions
 
+### Orthocorrection GCP Activity has a [wiki](https://github.com/c0ba1t/GEM-Lab-Workshop/wiki) page
+
+# Before the Workshop!
+
 ### Download Data 
 
 Download the Git repo by selecting the __"Clone or Download"__ button and choosing __.zip__
@@ -72,7 +76,7 @@ Select link that corresponds to your Operating System
 
    * Windows users will need to be sure that they select the corect version (32/64 bit)
    
-   * Linux Users can find a short instruction in thi repository, [here](https://github.com/c0ba1t/GEM-Lab-Workshop/blob/master/Photoscan_On_Linux.md)
+   * Linux Users can find a short instruction in this repository, [here](https://github.com/c0ba1t/GEM-Lab-Workshop/blob/master/Photoscan_On_Linux.md)
 
 Be sure to select professional version!
 
