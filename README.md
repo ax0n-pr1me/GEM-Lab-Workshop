@@ -3,32 +3,7 @@
 
 A repository to grow the workshop into a full featured course on the applications of modern remote sensing and photogrammetry techniques in and for the environmental and geosciences. 
 
-
-## All requisite data is included on this GitHub Repository
-
-### Completed Project Sample
-
-     * Processed in PhotoScan(c) at the highest settings
-
-[UNM GEM Lab Sample Data](https://unmm-my.sharepoint.com/personal/jessesprague_unm_edu/_layouts/15/guestaccess.aspx?folderid=0e0d891c4265f4535b311843674d8b83b&authkey=AQlMNzr_S3kyFPANb9vJxWg)
-
-#### UNM Gem Lab Sample Data Includes
-
-  * Sample Processing Results fom PhotoScan
-  
-    * Processed on highest settings throughout
-    
-    * ~ 2.1 GB
-    
-  * 1 Meter Resolution DSM
-  
-    * Represnts the region around the AOI
-    
-    * 1 meter resolution
-   
-    * ~ 33 MB
-  
-## UNM Gem Lab GitHub Data
+### UNM Gem Lab GitHub Data
 
 #### Data and Instructions found here on GitHub include
 
@@ -58,7 +33,29 @@ A repository to grow the workshop into a full featured course on the application
   
   * Wiki page with Ground Control points shown in images
 
+### Extra Data
 
+#### Completed Project Sample
+
+     * Processed in PhotoScan(c) at the highest settings
+
+[UNM GEM Lab Sample Data](https://unmm-my.sharepoint.com/personal/jessesprague_unm_edu/_layouts/15/guestaccess.aspx?folderid=0e0d891c4265f4535b311843674d8b83b&authkey=AQlMNzr_S3kyFPANb9vJxWg)
+
+#### UNM Gem Lab Sample Data Includes
+
+  * Sample Processing Results fom PhotoScan
+  
+    * Processed on highest settings throughout
+    
+    * ~ 2.1 GB
+    
+  * 1 Meter Resolution DSM
+  
+    * Represnts the region around the AOI
+    
+    * 1 meter resolution
+   
+    * ~ 33 MB
 ## Directions
 
 ### Download Data 
