@@ -51,7 +51,7 @@ A repository to grow the workshop into a full featured course on the application
     
   * 1 Meter Resolution DSM
   
-    * Represnts the region around the AOI
+    * Covers the region around the AOI
     
     * 1 meter resolution
    
@@ -72,7 +72,7 @@ Select link that corresponds to your Operating System
 
    * Windows users will need to be sure that they select the corect version (32/64 bit)
    
-   * Linux Users can find a short instruction here on GitHub
+   * Linux Users can find a short instruction in thi repository, [here](https://github.com/c0ba1t/GEM-Lab-Workshop/blob/master/Photoscan_On_Linux.md)
 
 Be sure to select professional version!
 
