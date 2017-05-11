@@ -4,25 +4,16 @@
 A repository to grow the workshop into a full featured course on the applications of modern remote sensing and photogrammetry techniques in and for the environmental and geosciences. 
 
 
-## Data can be acquired from the following link
-### [UNM GEM Lab Data](https://unmm-my.sharepoint.com/personal/jessesprague_unm_edu/_layouts/15/guestaccess.aspx?folderid=0e0d891c4265f4535b311843674d8b83b&authkey=AQlMNzr_S3kyFPANb9vJxWg)
+## All requisite data is included on this GitHub Repository
 
-#### UNM Gem Lab Data Includes
+### Completed Project Sample
 
-  * Imagery in jpg format 
-  
-    * 13 images
-    
-    * ~ 85 MB
-    
-    * Nikon D810 RGB
-    
-    * Collected with Civil Air Patrol as part of SSCAFCA Calabacillas Arroyo Project
-    
-    * Collection height about 2500 feet Above Ground Level (AGL)
-    
-    * Ground Sample Distance (GSD) is about 5cm
-    
+     * Processed in PhotoScan(c) at the highest settings
+
+     * Available here [UNM GEM Lab Sample Data](https://unmm-my.sharepoint.com/personal/jessesprague_unm_edu/_layouts/15/guestaccess.aspx?folderid=0e0d891c4265f4535b311843674d8b83b&authkey=AQlMNzr_S3kyFPANb9vJxWg)
+
+#### UNM Gem Lab Sample Data Includes
+
   * Sample Processing Results fom PhotoScan
   
     * Processed on highest settings throughout
@@ -43,15 +34,38 @@ A repository to grow the workshop into a full featured course on the application
 
   * This README.md file with overview and basic instructions
 
-  * Survey data in CSV format
+  * Imagery in jpg format 
   
-  * Wiki with Instructions Coming Soon
+    * 13 images
+    
+    * ~ 85 MB
+    
+    * Nikon D810 RGB
+    
+    * Collected with Civil Air Patrol as part of SSCAFCA Calabacillas Arroyo Project
+    
+    * Collection height about 2500 feet Above Ground Level (AGL)
+    
+    * Ground Sample Distance (GSD) is about 5cm
+
+  * Survey data in CSV format
+
+    * WGS84 Decimal Degree
+
+    * NAD83 Zone 13N Northing and Easting
+
+    * Elevation in Meters for Both Coordinate Systems
+  
+  * Wiki page with Ground Control points shown in images
+
 
 ## Directions
 
 ### Download Data 
 
-If possible, download everything at the __UNM Gem Lab Data link__, if bandwidth is a limiting factor, all that is needed is the imagery found in the __*raw_data*__ folder
+Download the Git repo by selecting the __"Clone or Download"__ button and choosing __.zip__
+
+If possible, download everything at the __UNM Gem Lab Data link__, if bandwidth is a limiting factor, Everything you need is available on this page
 
 ### Install Agisoft
 
