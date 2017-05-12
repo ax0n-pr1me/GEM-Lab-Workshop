@@ -13,7 +13,9 @@ A repository to grow the workshop into a full featured course on the application
 
 Download the Git repo by selecting the __"Clone or Download"__ button and choosing __.zip__ or use this [__link__](https://github.com/c0ba1t/GEM-Lab-Workshop/archive/master.zip)
 
-If possible, download everything at the __UNM Gem Lab Data link__, if bandwidth is a limiting factor, Everything you need is available on this page
+Everything you need is available on the GitHub repository so the zip file is sufficient.
+
+If possible, download everything at the __UNM Gem Lab Data link__
 
 ### Install Agisoft
 
@@ -39,6 +41,7 @@ Allow 15 minutes for code to be emailed to you
 
 Enjoy opening, importing, saving, and exporting for 31 days!
 
+# CodeBook
 
 ## UNM Gem Lab GitHub Data
 
