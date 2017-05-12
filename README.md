@@ -3,9 +3,46 @@
 
 A repository to grow the workshop into a full featured course on the applications of modern remote sensing and photogrammetry techniques in and for the environmental and geosciences. 
 
-### UNM Gem Lab GitHub Data
+# Directions
 
-#### Data and Instructions found here on GitHub include
+### Orthocorrection GCP Activity has a [wiki](https://github.com/c0ba1t/GEM-Lab-Workshop/wiki) page
+
+## Before the Workshop
+
+### Download Data 
+
+Download the Git repo by selecting the __"Clone or Download"__ button and choosing __.zip__
+
+If possible, download everything at the __UNM Gem Lab Data link__, if bandwidth is a limiting factor, Everything you need is available on this page
+
+### Install Agisoft
+
+See download links [here](http://www.agisoft.com/downloads/installer/) 
+
+Select link that corresponds to your Operating System
+
+   * Windows users will need to be sure that they select the corect version (32/64 bit)
+   
+   * Linux Users can find a short instruction in this repository, [here](https://github.com/c0ba1t/GEM-Lab-Workshop/blob/master/Photoscan_On_Linux.md)
+
+Be sure to select professional version!
+
+### Request Trial License 
+
+Submit form [here](http://www.agisoft.com/downloads/request-trial/)
+
+Allow 15 minutes for code to be emailed to you
+
+   * If code is not in your email in 15 minutes try a different email and re-submit the form  
+
+### License Agisoft
+
+Enjoy opening, importing, saving, and exporting for 31 days!
+
+
+## UNM Gem Lab GitHub Data
+
+### Data and Instructions found here on GitHub include
 
   * This README.md file with overview and basic instructions
 
@@ -57,40 +94,4 @@ A repository to grow the workshop into a full featured course on the application
    
     * ~ 33 MB
 
-
-# Directions
-
-### Orthocorrection GCP Activity has a [wiki](https://github.com/c0ba1t/GEM-Lab-Workshop/wiki) page
-
-# Before the Workshop!
-
-### Download Data 
-
-Download the Git repo by selecting the __"Clone or Download"__ button and choosing __.zip__
-
-If possible, download everything at the __UNM Gem Lab Data link__, if bandwidth is a limiting factor, Everything you need is available on this page
-
-### Install Agisoft
-
-See download links [here](http://www.agisoft.com/downloads/installer/) 
-
-Select link that corresponds to your Operating System
-
-   * Windows users will need to be sure that they select the corect version (32/64 bit)
-   
-   * Linux Users can find a short instruction in this repository, [here](https://github.com/c0ba1t/GEM-Lab-Workshop/blob/master/Photoscan_On_Linux.md)
-
-Be sure to select professional version!
-
-### Request Trial License 
-
-Submit form [here](http://www.agisoft.com/downloads/request-trial/)
-
-Allow 15 minutes for code to be emailed to you
-
-   * If code is not in your email in 15 minutes try a different email and re-submit the form  
-
-### License Agisoft
-
-Enjoy opening, importing, saving, and exporting for 31 days!
 
