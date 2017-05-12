@@ -11,7 +11,7 @@ A repository to grow the workshop into a full featured course on the application
 
 ### Download Data 
 
-Download the Git repo by selecting the __"Clone or Download"__ button and choosing __.zip__
+Download the Git repo by selecting the __"Clone or Download"__ button and choosing __.zip__ or use this [__link__](https://github.com/c0ba1t/GEM-Lab-Workshop/archive/master.zip)
 
 If possible, download everything at the __UNM Gem Lab Data link__, if bandwidth is a limiting factor, Everything you need is available on this page
 
