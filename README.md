@@ -2,6 +2,7 @@
 ## Sprague, Zhang, Krofcheck,  Lippitt
 
 A repository to grow the workshop into a full featured course on the applications of modern remote sensing and photogrammetry techniques in and for the environmental and geosciences.   
+
 ## [Repo Webpage](https://c0ba1t.github.io/GEM-Lab-Workshop/)   
 
 
