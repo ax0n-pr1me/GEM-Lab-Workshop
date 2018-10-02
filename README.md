@@ -5,7 +5,7 @@ A repository to grow the workshop into a full featured course on the application
 
 # Directions
 
-### Orthocorrection GCP Activity has a [wiki](https://github.com/c0ba1t/GEM-Lab-Workshop/wiki) page
+### Orthocorrection GCP Activity has a [wiki](https://c0ba1t.github.io/GEM-Lab-Workshop/) page
 
 ## Before the Workshop
 
