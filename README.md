@@ -1,11 +1,14 @@
 # SfM-MVS Workshop by the UNM GEM Lab
 ## Sprague, Zhang, Krofcheck,  Lippitt
 
-A repository to grow the workshop into a full featured course on the applications of modern remote sensing and photogrammetry techniques in and for the environmental and geosciences. 
+A repository to grow the workshop into a full featured course on the applications of modern remote sensing and photogrammetry techniques in and for the environmental and geosciences.   
+## [Repo Webpage](https://c0ba1t.github.io/GEM-Lab-Workshop/)   
+
 
 # Directions
 
-### Orthocorrection GCP Activity has a [wiki](https://c0ba1t.github.io/GEM-Lab-Workshop/) page
+### Orthocorrection GCP Activity has a [wiki] (https://github.com/c0ba1t/GEM-Lab-Workshop/wiki) page
+
 
 ## Before the Workshop
 
